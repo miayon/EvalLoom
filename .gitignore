@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments & Virtual Envs
+.env
+venv/
+env/
+ENV/
+
+# Output evaluation reports (optional - keep outputs/ directory if desired, ignore generated temp files)
+scratch/
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
